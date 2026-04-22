@@ -1,0 +1,3 @@
+Contact: mailto:security@palantirisecurity.ai
+Policy: https://palantirisecurity.ai/security-policy
+Preferred-Languages: en
