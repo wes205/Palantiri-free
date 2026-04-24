@@ -17,8 +17,8 @@ if ENV_FILE.exists():
         v = v.strip().strip('"').strip("'")
         os.environ.setdefault(k, v)
 
-SUPABASE_URL       = os.getenv("SUPABASE_URL", "")
-SUPABASE_ANON_KEY  = os.getenv("SUPABASE_ANON_KEY", "")
+SUPABASE_URL       = os.getenv("SUPABASE_URL", "https://zpsdffdluphqnwnmoshn.supabase.co")
+SUPABASE_ANON_KEY  = os.getenv("SUPABASE_ANON_KEY", "sb_publishable_qfr2XG5tdfNje2CfBjVANg_a9yccq68")
 SUPABASE_SERVICE_ROLE_KEY = os.getenv("SUPABASE_SERVICE_ROLE_KEY", "")  # required for agent writes
 ANTHROPIC_API_KEY  = os.getenv("ANTHROPIC_API_KEY", "")
 HIBP_API_KEY       = os.getenv("HIBP_API_KEY", "")  # optional; Ithil uses free k-anonymity endpoint if absent

@@ -1,13 +1,15 @@
+# Python
 __pycache__/
-*.py[cod]
-.venv/
-venv/
+*.pyc
+*.pyo
 .env
-.env.local
+.env.*
+!.env.example
+
+# Data (local scan output — do not commit)
 palantiri/data/*.jsonl
+palantiri/data/*.json
+
+# OS
 .DS_Store
-.vscode/
-.idea/
-*.swp
-dist/
-build/
+Thumbs.db

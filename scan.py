@@ -35,12 +35,7 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(na
 
 
 ECOSYSTEM = [
-    ("JobZone (production)",     "https://jobzoneonline.com"),
-    ("JobZone (Hostinger clone)", "https://palevioletred-elephant-981524.hostingersite.com"),
-    ("Crucible Markets",         "https://crucible-markets-tmp.vercel.app"),
-    ("Studio Labs",              "https://studio-labs-blond.vercel.app"),
-    ("UNIFEED",                  "https://web-livid-six-43.vercel.app"),
-    ("Palantiri (self)",         "https://palantirisecurity.com"),
+    ("Palantiri (self)",  "https://palantirisecurity.com"),
 ]
 
 

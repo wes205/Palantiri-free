@@ -22,7 +22,7 @@ Thanks for considering a contribution. Palantiri Free is intentionally small —
 1. Open an issue first for anything non-trivial. A five-minute discussion saves an hour of rework.
 2. Fork, branch, PR. Small PRs are easier to review.
 3. Run `python3 scan.py https://example.com` and paste the before/after output in the PR description.
-4. By submitting a PR you agree to license your contribution under the project MIT license.
+4. By submitting a PR you agree to license your contribution under the project Apache 2.0 license.
 
 ## Security issues
 

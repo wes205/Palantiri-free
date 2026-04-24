@@ -1,6 +1,6 @@
 # Palantiri Security — Free Edition
 
-**Three open-source "stones" that scan any website for security, compliance, and exposure issues. No account. No rate limits. MIT licensed.**
+**Three open-source "stones" that scan any website for security, compliance, and exposure issues. No account. No rate limits. Apache 2.0 licensed.**
 
 > Palantiri Security is an IT-security SaaS built by CRUCiBLE CAPiTAL SYSTEMS LLC. The **Free Edition** in this repository is the open-source core we give away. Paid tiers (Watch / Guard / High Seat) add continuous monitoring, LLM-driven correlation, endpoint protection, and enterprise compliance evidence on top of this foundation.
 >
