@@ -40,7 +40,7 @@ ECOSYSTEM = [
     ("Crucible Markets",         "https://crucible-markets-tmp.vercel.app"),
     ("Studio Labs",              "https://studio-labs-blond.vercel.app"),
     ("UNIFEED",                  "https://web-livid-six-43.vercel.app"),
-    ("Palantiri (self)",         "https://palantirisecurity.ai"),
+    ("Palantiri (self)",         "https://palantirisecurity.com"),
 ]
 
 

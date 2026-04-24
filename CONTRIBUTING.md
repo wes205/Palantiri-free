@@ -13,7 +13,7 @@ Thanks for considering a contribution. Palantiri Free is intentionally small —
 
 ## What's out of scope for this repo
 
-- New *agents* beyond the three OSS stones. Orthanc, Anor, Elostirion, Osgiliath, and the Guard endpoint stack live in the paid fork. If you want those capabilities, see the paid tiers at [palantirisecurity.ai](https://palantirisecurity.ai).
+- New *agents* beyond the three OSS stones. Orthanc, Anor, Elostirion, Osgiliath, and the Guard endpoint stack live in the paid fork. If you want those capabilities, see the paid tiers at [palantirisecurity.com](https://palantirisecurity.com).
 - Anything requiring an API key or paid service that not every user will have.
 - Anything that adds a non-stdlib dependency. We'll consider one ONLY if it's cryptographic or parser-related and the stdlib alternative is genuinely bad.
 
@@ -26,7 +26,7 @@ Thanks for considering a contribution. Palantiri Free is intentionally small —
 
 ## Security issues
 
-If you think you've found a security issue in Palantiri itself (not in something Palantiri scanned), email **security@palantirisecurity.ai** instead of opening a public issue. We try to respond within 72 hours. See `.well-known/security.txt`.
+If you think you've found a security issue in Palantiri itself (not in something Palantiri scanned), email **security@palantirisecurity.com** instead of opening a public issue. We try to respond within 72 hours. See `.well-known/security.txt`.
 
 ## Code style
 

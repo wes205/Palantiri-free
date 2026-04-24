@@ -25,7 +25,7 @@ HIBP_API_KEY       = os.getenv("HIBP_API_KEY", "")  # optional; Ithil uses free 
 
 SCAN_TIMEOUT_SEC   = int(os.getenv("PALANTIRI_SCAN_TIMEOUT_SEC", "20"))
 USER_AGENT         = os.getenv("PALANTIRI_USER_AGENT",
-                               "PalantiriScanner/0.1 (+https://palantirisecurity.ai)")
+                               "PalantiriScanner/0.1 (+https://palantirisecurity.com)")
 
 # Agents may also write to a local JSONL dump as a second-hand backup
 LOCAL_FINDINGS_DIR = ROOT / "palantiri" / "data"
